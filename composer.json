@@ -1,0 +1,17 @@
+{
+    "name": "win10/mvc",
+    "autoload": {
+        "psr-4": {
+            "7learn-mvc\\App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aminafx",
+            "email": "amin.jalili137819@gmail.comm"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
