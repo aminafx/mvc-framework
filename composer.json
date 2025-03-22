@@ -2,7 +2,7 @@
     "name": "win10/mvc",
     "autoload": {
         "psr-4": {
-            "7learn-mvc\\App\\": "App/"
+            "App\\": "App/"
         }
     },
     "authors": [

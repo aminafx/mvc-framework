@@ -1,3 +1,6 @@
 <?php
 include 'configs/init.php';
-var_dump($_ENV);
+
+use App\Utilities\Asset;
+use App\Utilities\Url;
+ Url::current_route();
